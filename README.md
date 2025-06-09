@@ -25,4 +25,5 @@ Once the data was cleaned and structured, I visualized it using Power BI to crea
 
 Would love to hear your feedback or suggestions!
 Link-https://www.linkedin.com/in/pradeep-kumar-das-0b05b627b/
+
 #SQL #PowerBI #DataAnalytics #StarbucksProject #MSQLServer #BusinessIntelligence #DashboardDesign #WomenInTech
